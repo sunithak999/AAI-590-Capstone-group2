@@ -1,5 +1,5 @@
 """
-Task 4: AR HUD Data Publisher
+Module: AR HUD Data Publisher
 
 Takes parsed detection objects and publishes low-latency JSON payloads
 over UDP or WebSocket for AR/HUD consumers.
